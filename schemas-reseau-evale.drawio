@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ffdjXJ1VODUs_Z24uSau">
-    <mxGraphModel dx="982" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1704" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="HnOfYQM8-YgWqWDNVlE5-21" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="" vertex="1">
           <mxGeometry height="80" width="120" x="20" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="HnOfYQM8-YgWqWDNVlE5-22" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" value="Cartouche shemat phisique" vertex="1">
+        <mxCell id="HnOfYQM8-YgWqWDNVlE5-22" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" value="Cartouche Sché&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;ma physique&lt;/span&gt;" vertex="1">
           <mxGeometry height="299" width="543.5" x="284" y="870" as="geometry" />
         </mxCell>
         <mxCell id="HnOfYQM8-YgWqWDNVlE5-23" parent="HnOfYQM8-YgWqWDNVlE5-22" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" value="" vertex="1">
@@ -149,7 +149,7 @@
         <mxCell id="HnOfYQM8-YgWqWDNVlE5-49" parent="1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon7;" value="" vertex="1">
           <mxGeometry height="50" width="34.5" x="670" y="65" as="geometry" />
         </mxCell>
-        <mxCell id="sAOE0Xwhk6084_ODhqZT-1" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" value="Cartouche shemat logique" vertex="1">
+        <mxCell id="sAOE0Xwhk6084_ODhqZT-1" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" value="Cartouche Schéma&amp;nbsp;logique" vertex="1">
           <mxGeometry height="289" width="543.5" x="1110" y="880" as="geometry" />
         </mxCell>
         <mxCell id="sAOE0Xwhk6084_ODhqZT-2" parent="sAOE0Xwhk6084_ODhqZT-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" value="" vertex="1">
